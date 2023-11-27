@@ -49,7 +49,6 @@ Die Open-Source Entwicklungsumgebung MCreator (https://mcreator.net/) bietet daz
 In diesem Video lernst du die Basics - in 30 Minuten ist MCreator installiert und die erste eigene Mod fertig: https://youtu.be/QeViHXM0aFQ
 
 
-
 ## Was brauche ich dafür?
 |||
 -|-
